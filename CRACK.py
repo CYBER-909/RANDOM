@@ -13,7 +13,7 @@ except:
 bit = platform.architecture()[0]
 if bit == '64bit':
     
-        import old
+        import CRACK
     
  
 elif bit == '32bit':
